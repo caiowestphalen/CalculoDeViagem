@@ -1,3 +1,5 @@
+# Programa que calcula o valor da viagem até XXXKM podendo adicionar desconto após passar esse KM.
+
 from time import sleep
 print('-=-'*20)
 print('Calcule o valor da sua viagem.\nPara viagens até 200KM o valor é R$0,50 o km.\nPara viagens acima de 200KM o valor é R$0,45 o km.')
